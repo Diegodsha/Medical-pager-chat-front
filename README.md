@@ -89,7 +89,7 @@ Visit [Medical-pager](https://medical-pager-dh.netlify.app/)
 
 - From within the project directory run `npm start` to start a local server in your web browser.
 - Available Paths:
-  - Visit `http://localhost:3000/` for Home view
+  - Visit `http://localhost:5000/` for Home view
 
 
 ## Author
@@ -109,12 +109,6 @@ Visit [Medical-pager](https://medical-pager-dh.netlify.app/)
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
-- Design inspiration from [Alexey_Savitskiy](https://www.behance.net/gallery/37706679/Circle-(Landing-page-Dashboard-Mobile-App))
-
 
 ## License
 
